@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "signOut": "Sign out"
+  },
+  "hero": {
+    "eyebrow": "Free. Forever. No paywalls.",
+    "title": "Learn to code.",
+    "titleAccent": "Build real things.",
+    "subtitle": "Free courses in programming, web development, and cybersecurity. Runnable code in every lesson. No credit card. No signup required.",
+    "browse": "Browse Courses",
+    "download": "Download App",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "free": "Free"
+  },
+  "home": {
+    "coursesTitle": "What you can learn",
+    "welcomeBack": "Welcome back! Pick a course to continue learning.",
+    "guestMessage": "Every lesson is free. Sign in to save your progress and pick up where you left off.",
+    "search": "Search courses, topics, or keywords...",
+    "all": "All",
+    "viewCourse": "View Course",
+    "noResults": "No courses match your search",
+    "tryDifferent": "Try a different keyword or clear your filters."
+  },
+  "lesson": {
+    "signInToSave": "Sign in to save your progress",
+    "previous": "Previous",
+    "next": "Next lesson",
+    "backToCourse": "Back to course",
+    "runCode": "Run Code",
+    "exercise": "Exercise",
+    "showSolution": "Show solution",
+    "tryOnReplit": "Run on Replit",
+    "advertisement": "Advertisement"
+  },
+  "share": {
+    "whatsapp": "Share on WhatsApp",
+    "copy": "Copy Link",
+    "copied": "Copied!",
+    "message": "Learn {{title}} for FREE on Mobzy Learn!"
+  },
+  "auth": {
+    "signInTitle": "Sign In",
+    "registerTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "continueGoogle": "Continue with Google",
+    "signUpGoogle": "Sign up with Google",
+    "or": "or",
+    "signingIn": "Signing in...",
+    "creatingAccount": "Creating account...",
+    "welcomeBack": "Welcome back. New here?",
+    "createAccountLink": "Create an account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInLink": "Sign In"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "displayName": "Display Name",
+    "emailReadOnly": "Email (cannot be changed here)",
+    "changePhoto": "Change Photo",
+    "removePhoto": "Remove",
+    "saveProfile": "Save Profile",
+    "preferences": "Preferences",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "emailUpdates": "Receive email updates about new courses",
+    "progressSync": "Sync my progress across devices",
+    "savePreferences": "Save Preferences",
+    "account": "Account",
+    "passwordReset": "Send password reset email",
+    "deleteAccount": "Delete my account",
+    "saving": "Saving...",
+    "saved": "Saved!",
+    "profileUpdated": "Profile updated!"
+  },
+  "dashboard": {
+    "title": "My Learning",
+    "welcome": "Welcome back, {{name}}",
+    "subtitle": "Pick up where you left off, or explore new courses.",
+    "enrolled": "Enrolled Courses",
+    "noEnrollments": "You haven't enrolled in any courses yet. All courses on Mobzy Learn are 100% free — pick any one to get started.",
+    "explore": "Explore the Catalogue",
+    "certificates": "My Certificates",
+    "noCertificates": "No certificates earned yet. Complete a course and pass the final exam to unlock your certificate.",
+    "certificateLocked": "Certificate Locked — Complete a course to unlock",
+    "accountSettings": "Account Settings"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "refunds": "Refunds",
+    "support": "Support",
+    "copyright": "Copyright {{year}} Mobzy Learn.",
+    "createdBy": "Created by"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}

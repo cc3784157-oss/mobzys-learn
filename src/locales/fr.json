@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "signIn": "Connexion",
+    "register": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "signOut": "Déconnexion"
+  },
+  "hero": {
+    "eyebrow": "Gratuit. Pour toujours. Sans paywall.",
+    "title": "Apprenez à coder.",
+    "titleAccent": "Construisez de vraies choses.",
+    "subtitle": "Cours gratuits en programmation, développement web et cybersécurité. Code exécutable à chaque leçon. Sans carte bancaire. Sans inscription requise.",
+    "browse": "Parcourir les cours",
+    "download": "Télécharger l'app",
+    "courses": "Cours",
+    "lessons": "Leçons",
+    "free": "Gratuit"
+  },
+  "home": {
+    "coursesTitle": "Ce que vous pouvez apprendre",
+    "welcomeBack": "Bon retour ! Choisissez un cours pour continuer.",
+    "guestMessage": "Chaque leçon est gratuite. Connectez-vous pour sauvegarder votre progression.",
+    "search": "Rechercher des cours, sujets, mots-clés...",
+    "all": "Tous",
+    "viewCourse": "Voir le cours",
+    "noResults": "Aucun cours ne correspond",
+    "tryDifferent": "Essayez un autre mot-clé."
+  },
+  "lesson": {
+    "signInToSave": "Connectez-vous pour sauvegarder votre progression",
+    "previous": "Précédent",
+    "next": "Leçon suivante",
+    "backToCourse": "Retour au cours",
+    "runCode": "Exécuter le code",
+    "exercise": "Exercice",
+    "showSolution": "Voir la solution",
+    "tryOnReplit": "Essayer sur Replit",
+    "advertisement": "Publicité"
+  },
+  "share": {
+    "whatsapp": "Partager sur WhatsApp",
+    "copy": "Copier le lien",
+    "copied": "Copié !",
+    "message": "Apprenez {{title}} GRATUITEMENT sur Mobzy Learn !"
+  },
+  "auth": {
+    "signInTitle": "Connexion",
+    "registerTitle": "Créer un compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "continueGoogle": "Continuer avec Google",
+    "signUpGoogle": "S'inscrire avec Google",
+    "or": "ou",
+    "signingIn": "Connexion...",
+    "creatingAccount": "Création du compte...",
+    "welcomeBack": "Bon retour. Nouveau ici ?",
+    "createAccountLink": "Créer un compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "signInLink": "Connexion"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "profile": "Profil",
+    "displayName": "Nom d'affichage",
+    "emailReadOnly": "Email (non modifiable ici)",
+    "changePhoto": "Changer la photo",
+    "removePhoto": "Supprimer",
+    "saveProfile": "Enregistrer le profil",
+    "preferences": "Préférences",
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "emailUpdates": "Recevoir des emails sur les nouveaux cours",
+    "progressSync": "Synchroniser ma progression entre appareils",
+    "savePreferences": "Enregistrer les préférences",
+    "account": "Compte",
+    "passwordReset": "Envoyer un email de réinitialisation",
+    "deleteAccount": "Supprimer mon compte",
+    "saving": "Enregistrement...",
+    "saved": "Enregistré !",
+    "profileUpdated": "Profil mis à jour !"
+  },
+  "dashboard": {
+    "title": "Mon apprentissage",
+    "welcome": "Bon retour, {{name}}",
+    "subtitle": "Reprenez où vous en étiez, ou explorez de nouveaux cours.",
+    "enrolled": "Cours suivis",
+    "noEnrollments": "Vous n'êtes inscrit à aucun cours. Tous les cours sont 100% gratuits.",
+    "explore": "Explorer le catalogue",
+    "certificates": "Mes certificats",
+    "noCertificates": "Aucun certificat obtenu. Terminez un cours pour débloquer.",
+    "certificateLocked": "Certificat verrouillé — Terminez un cours",
+    "accountSettings": "Paramètres du compte"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "refunds": "Remboursements",
+    "support": "Support",
+    "copyright": "Copyright {{year}} Mobzy Learn.",
+    "createdBy": "Créé par"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  }
+}

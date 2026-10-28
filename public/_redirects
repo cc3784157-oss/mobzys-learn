@@ -1,2 +1,2 @@
-﻿# SPA fallback — route all non-file requests to /index.html
+﻿# SPA fallback
 /*    /index.html   200

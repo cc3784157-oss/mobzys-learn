@@ -1,0 +1,12 @@
+﻿node_modules
+dist
+.env.local
+.env
+*.log
+_retired
+mobzys-deploy.zip
+.gradle
+.idea
+build-error.log
+build-log.txt
+build.log

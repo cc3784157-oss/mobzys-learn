@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu",
+    "contact": "Mawasiliano",
+    "signIn": "Ingia",
+    "register": "Jiandikishe",
+    "dashboard": "Dashibodi",
+    "settings": "Mipangilio",
+    "signOut": "Toka"
+  },
+  "hero": {
+    "eyebrow": "Bure. Milele. Hakuna malipo.",
+    "title": "Jifunze kuandika code.",
+    "titleAccent": "Jenga vitu halisi.",
+    "subtitle": "Kozi za bure katika programu, ukuzaji wa wavuti, na usalama wa mtandao. Code inayotekelezwa katika kila somo.",
+    "browse": "Vinjari Kozi",
+    "download": "Pakua App",
+    "courses": "Kozi",
+    "lessons": "Masomo",
+    "free": "Bure"
+  },
+  "home": {
+    "coursesTitle": "Unachoweza kujifunza",
+    "welcomeBack": "Karibu tena! Chagua kozi kuendelea.",
+    "guestMessage": "Kila somo ni bure. Ingia ili kuhifadhi maendeleo yako.",
+    "search": "Tafuta kozi, mada, au maneno...",
+    "all": "Zote",
+    "viewCourse": "Tazama Kozi",
+    "noResults": "Hakuna kozi zinazolingana",
+    "tryDifferent": "Jaribu neno lingine."
+  },
+  "lesson": {
+    "signInToSave": "Ingia ili kuhifadhi maendeleo yako",
+    "previous": "Iliyotangulia",
+    "next": "Somo linalofuata",
+    "backToCourse": "Rudi kwenye kozi",
+    "runCode": "Endesha Code",
+    "exercise": "Zoezi",
+    "showSolution": "Onyesha suluhisho",
+    "tryOnReplit": "Jaribu kwenye Replit",
+    "advertisement": "Tangazo"
+  },
+  "share": {
+    "whatsapp": "Shiriki kwenye WhatsApp",
+    "copy": "Nakili Kiungo",
+    "copied": "Imenakiliwa!",
+    "message": "Jifunze {{title}} BURE kwenye Mobzy Learn!"
+  },
+  "auth": {
+    "signInTitle": "Ingia",
+    "registerTitle": "Unda Akaunti",
+    "email": "Barua pepe",
+    "password": "Nenosiri",
+    "fullName": "Jina Kamili",
+    "continueGoogle": "Endelea na Google",
+    "signUpGoogle": "Jiandikishe na Google",
+    "or": "au",
+    "signingIn": "Inaingia...",
+    "creatingAccount": "Inaunda akaunti...",
+    "welcomeBack": "Karibu tena. Mpya hapa?",
+    "createAccountLink": "Unda akaunti",
+    "alreadyHaveAccount": "Tayari una akaunti?",
+    "signInLink": "Ingia"
+  },
+  "settings": {
+    "title": "Mipangilio",
+    "profile": "Wasifu",
+    "displayName": "Jina la Kuonyesha",
+    "emailReadOnly": "Barua pepe (haiwezi kubadilishwa hapa)",
+    "changePhoto": "Badilisha Picha",
+    "removePhoto": "Ondoa",
+    "saveProfile": "Hifadhi Wasifu",
+    "preferences": "Mapendeleo",
+    "language": "Lugha",
+    "theme": "Mandhari",
+    "light": "Nuru",
+    "dark": "Giza",
+    "emailUpdates": "Pokea barua pepe kuhusu kozi mpya",
+    "progressSync": "Sawazisha maendeleo yangu kwenye vifaa",
+    "savePreferences": "Hifadhi Mapendeleo",
+    "account": "Akaunti",
+    "passwordReset": "Tuma barua pepe ya kuweka upya nenosiri",
+    "deleteAccount": "Futa akaunti yangu",
+    "saving": "Inahifadhi...",
+    "saved": "Imehifadhiwa!",
+    "profileUpdated": "Wasifu umesasishwa!"
+  },
+  "dashboard": {
+    "title": "Masomo Yangu",
+    "welcome": "Karibu tena, {{name}}",
+    "subtitle": "Endelea mahali ulipoacha, au gundua kozi mpya.",
+    "enrolled": "Kozi Zilizoandikishwa",
+    "noEnrollments": "Hujaandikishwa kwenye kozi yoyote. Kozi zote ni bure 100%.",
+    "explore": "Vinjari Katalogi",
+    "certificates": "Vyeti Vyangu",
+    "noCertificates": "Hakuna vyeti vilivyopatikana. Kamilisha kozi kufungua.",
+    "certificateLocked": "Cheti Kimefungwa — Kamilisha kozi",
+    "accountSettings": "Mipangilio ya Akaunti"
+  },
+  "footer": {
+    "about": "Kuhusu",
+    "contact": "Mawasiliano",
+    "privacy": "Faragha",
+    "terms": "Masharti",
+    "refunds": "Marejesho",
+    "support": "Msaada",
+    "copyright": "Hakimiliki {{year}} Mobzy Learn.",
+    "createdBy": "Imeundwa na"
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Hitilafu",
+    "success": "Mafanikio"
+  }
+}

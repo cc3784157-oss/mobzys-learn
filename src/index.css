@@ -1,0 +1,17 @@
+
+:root {
+  color: #20251f;
+  background: #ffffff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html { min-width: 320px; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button:focus-visible, a:focus-visible, input:focus-visible {
+  outline: 3px solid #78b88b;
+  outline-offset: 3px;
+}
+::selection { background: #d9ebdc; color: #173f28; }
